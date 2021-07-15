@@ -3,7 +3,7 @@
 <p>This is my portfolio with all my projects and contact information.</p>
 <p>The website is live on  </p>
 <h2>Preview</h2><br/>
-<img src='https://github.com/Nick9499/Instagram-clone/blob/main/public/instagram.PNG' /><br/>
+<img src='https://github.com/Nick9499/Portfolio/blob/main/src/img/screen.png' /><br/>
 <h2>Technologies used</h2>
 <br>
 <ul>
